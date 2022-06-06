@@ -1,8 +1,41 @@
-# github_practice
+# Github_Practice
 practice github usage
 
-study remote repository, local repository
+- **Study**
 
-study SSH-key generate
+  - remote repository, local repository
 
-study push and pull by git BASH
+  - SSH-key generate
+
+  - push and pull by git BASH
+  
+  - markdown usage
+
+- **Markdown usage**
+  
+  - **text**
+
+  - *text*
+  
+  - ***text***
+  
+  - ~~text~~
+  
+> main sentence
+>> sub sentence
+
+`source code ex("souce code ex")`
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world");
+  }
+}
+ ```
+ 
+ <https://github.com/DevMovegun>
+ 
+ [DevMovegun profile](https://github.com/DevMovegun)
+ 
+ [DevMovegun profile](https://github.com/DevMovegun, "this is DevMovegun profile page")
