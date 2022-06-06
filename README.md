@@ -1,4 +1,6 @@
 # Github_Practice
+![Github logo](/images/github_logo.png)
+
 practice github usage
 
 - **Study**
@@ -11,7 +13,7 @@ practice github usage
   
   - markdown usage
 
-- **Markdown usage**
+- **Markdown Text usage**
   
   - **text**
 
@@ -21,10 +23,12 @@ practice github usage
   
   - ~~text~~
   
-> main sentence
->> sub sentence
+- **Markdown source code usage**
 
-`source code ex("souce code ex")`
+  - > main sentence
+  - >> sub sentence
+
+  - `source code ex("souce code ex")`
 
 ```java
 public class Main {
@@ -33,9 +37,11 @@ public class Main {
   }
 }
  ```
+
+- **Markdown external link usage**
+
+  - <https://github.com/DevMovegun>
  
- <https://github.com/DevMovegun>
+  - [DevMovegun profile](https://github.com/DevMovegun)
  
- [DevMovegun profile](https://github.com/DevMovegun)
- 
- [DevMovegun profile](https://github.com/DevMovegun, "this is DevMovegun profile page")
+  - [DevMovegun profile](https://github.com/DevMovegun, "this is DevMovegun profile page")
